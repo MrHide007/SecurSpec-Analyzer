@@ -1,0 +1,6 @@
+{
+  "name": "SecurSpec - Web Config & Header Security Analyzer",
+  "description": "Defensive HTTP security headers and SSL/TLS certificate validator with localized audit reports and remediation directives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
